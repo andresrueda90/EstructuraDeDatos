@@ -29,7 +29,7 @@ public class EstructuraDeDatos {
         mergeTwoSortedList.run();
         
         IAlgoritm docArrays = new DocArrays();
-        docArrays.run();
+        docArrays.run(); 
         
         
 
